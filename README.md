@@ -60,7 +60,9 @@ from sklearn.model_selection import TimeSeriesSplit
 ![image](https://github.com/Prayag-Chawla/Energy-Consumption-Prediction/assets/92213377/9d287524-7c0f-4084-9f9e-a868876010f6)
 ![image](https://github.com/Prayag-Chawla/Energy-Consumption-Prediction/assets/92213377/4c479ffe-5910-421f-9195-f5bde1173f6b)
 
-
+## Taken From
+This project was taken by 
+https://www.kaggle.com/code/malekzadeh/smart-home-data-processing-weather-vs-energy#Sensor-Time-Series-Analysis
 
 
 ## Used By
