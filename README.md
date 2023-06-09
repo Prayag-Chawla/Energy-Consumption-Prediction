@@ -30,6 +30,7 @@ MA: Moving Average. A model that uses the dependency between an observation and 
 ## LSTM Model
 
 Long Short-Term Memory Networks is a deep learning, sequential neural network that allows information to persist. It is a special type of Recurrent Neural Network which is capable of handling the vanishing gradient problem faced by RNN. LSTM was designed by Hochreiter and Schmidhuber that resolves the problem caused by traditional rnns and machine learning algorithms.
+![image](https://github.com/Prayag-Chawla/Energy-Consumption-Prediction/assets/92213377/5a413cbf-01de-455d-9c6c-e02d6ac4ddf2)
 
 
 
@@ -53,6 +54,11 @@ from sklearn.model_selection import TimeSeriesSplit
 ```
 
 
+## OUTPUT
+
+![image](https://github.com/Prayag-Chawla/Energy-Consumption-Prediction/assets/92213377/c6788602-b51f-4f65-94cf-23a790319a18)
+![image](https://github.com/Prayag-Chawla/Energy-Consumption-Prediction/assets/92213377/9d287524-7c0f-4084-9f9e-a868876010f6)
+![image](https://github.com/Prayag-Chawla/Energy-Consumption-Prediction/assets/92213377/4c479ffe-5910-421f-9195-f5bde1173f6b)
 
 
 
